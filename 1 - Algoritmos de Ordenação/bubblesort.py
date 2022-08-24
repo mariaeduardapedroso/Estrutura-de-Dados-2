@@ -1,4 +1,5 @@
 
+
 def ordenarBubbleSort(v,tipo):
     tamanhoVetor = len(v)
     trocou = True
@@ -7,9 +8,14 @@ def ordenarBubbleSort(v,tipo):
         trocou=False
         for i in range(tamanhoVetor-1):
             iteracao= iteracao+1
-            if v[i]>v[i+1]:
-                v[i],v[i+1]=v[i+1],v[i]
-                trocou=True
+            if tipo == True:
+                if v[i]>v[i+1]:
+                    v[i],v[i+1]=v[i+1],v[i]
+                    trocou=True
+            else:
+                if v[i]<v[i+1]:
+                    v[i],v[i+1]=v[i+1],v[i]
+                    trocou=True
     tamanhoVetor=tamanhoVetor-1
     print(iteracao)
         
@@ -17,7 +23,7 @@ def ordenarBubbleSort(v,tipo):
 
 
 v=[1,4,2,3,5,6]
-tipo = 1
+tipoCrescente = True
 
 print(v)
 ordenarBubbleSort(v,2)
