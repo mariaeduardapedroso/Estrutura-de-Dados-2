@@ -11,8 +11,10 @@ def  magicaMerge(v,inicio,meio,fim):
             vaux.append(v[p2])
             p2= p2+1
     if p1 == meio:
-
+        vaux.append(v[p2:fim])
     else:
+        vaux.append(v[p1:meio])
+    v=vaux
         
 
 
@@ -27,10 +29,11 @@ def ordenarMergeSort(v,inicio,fim):
 
 v=[69, 24, -15, -95, 38, -63, 55, 74, -62, 72, 94, 87, 62, -85, 84]
 tipoCrescente = True
-
+inicio = 0
+fim = len(v)
 print(v)
 
-ordenarMergeSort(v,tipoCrescente)
+ordenarMergeSort(v,inicio,fim)
 print(v)
 
 tipoCrescente = False
