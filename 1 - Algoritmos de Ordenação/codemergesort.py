@@ -24,6 +24,8 @@ def ordenarMergeSort(v,inicio,fim):
         ordenarMergeSort(v,inicio,meio)
         ordenarMergeSort(v,meio+1,fim)
         magicaMerge(v,inicio,meio,fim)
+    else:
+        return
 
 
 
@@ -36,6 +38,6 @@ print(v)
 ordenarMergeSort(v,inicio,fim)
 print(v)
 
-tipoCrescente = False
-ordenarMergeSort(v,tipoCrescente)
-print(v)
+# tipoCrescente = False
+# ordenarMergeSort(v,inicio,fim)
+# print(v)
