@@ -24,15 +24,14 @@ def ordenarMergeSort(v,inicio,fim):
         ordenarMergeSort(v,inicio,meio)
         ordenarMergeSort(v,meio+1,fim)
         magicaMerge(v,inicio,meio,fim)
-    else:
-        return
+
 
 
 
 v=[69, 24, -15, -95, 38, -63, 55, 74, -62, 72, 94, 87, 62, -85, 84]
 tipoCrescente = True
 inicio = 0
-fim = len(v)
+fim = len(v)-1
 print(v)
 
 ordenarMergeSort(v,inicio,fim)
