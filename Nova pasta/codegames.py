@@ -45,7 +45,7 @@ def escritaTamanhosFixos(file, game):
 
 if __name__ == '__main__':
     entrada = open('games.txt', "r")
-    saida = open('saida',"w")
+    saida = open('saida1.txt',"w")
         
     resposta = entrada.readlines()
     
@@ -54,8 +54,8 @@ if __name__ == '__main__':
         gameobject = Game(nome = game[0],genero=game[2],plataforma=game[3],
         ano=game[4],classificacao=game[5],preco=game[6],midia=game[7],tamanho=game[8])
         escritaTamanhosFixos(saida,gameobject)
-        print(gameobject)
-        print(len(game))
+
+      
 
     # print(resposta)
     # escritaTamanhosFixos('saida.txt',resposta)

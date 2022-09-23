@@ -1,6 +1,6 @@
 The Witcher 3 - Wild Hunt|CD Projekt|Action RPG|Multiplataforma|2015|Mature 17+|79.90|Ambos|32.0
 Hollow Knight|Team Cherry|Metroidvania|Multiplataforma|2017|Everyone 10+|24.97|Digital|5.3
-The Legend of Zelda: Breath of the Wild|Nintendo|Action-adventure|2017|Everyone 10+|199.90|Ambos|13.4
+The Legend of Zelda: Breath of the Wild|Nintendo|Action-adventure|Switch|2017|Everyone 10+|199.90|Ambos|13.4
 Devil May Cry 5|Capcom|Hack and Slash|Multiplataforma|2019|Mature 17+|99.90|Ambos|35.0
 The Binding of Isaac: Rebirth|Nicalis|Roguelike|PC|2014|Mature 17+|27.99|Digital|0.449
 Little Big Adventure 2|Adeline Software International|Action-adventure|PC|1997|Everyone|24.89|Digital|0.474
@@ -18,6 +18,6 @@ PAYDAY 2|OVERKILL - a Starbreeze Studio|RPG|Multiplataforma|2013|Mature 17+|11.9
 Squad|Offworld Industries|Indie|PC|2020|Mature 17+|70.49|Digital|74.15
 Halo Infinite|343 Industries|First-person Shooter|Multiplataforma|2021|14+|130.00|Ambos|48.42
 Bleach Brave Souls|KlabGames|Action RPG|Multiplataforma|2016|12+|00.00|Digital|5.0
-Counter Strike Global Offensive|Valve|First-person Shooter|PC|2012|16+|Digital|29.51
+Counter Strike Global Offensive|Valve|First-person Shooter|PC|2012|16+||Digital|29.51
 Celeste|Extremely OK Games, Ltd.|Adventure|Multiplataforma|2018|Everyone|36.99|Digital|1.2
 Sifu|Sloclap|Ação e Aventura|Multiplataforma|2022|17+|75.99|Digital|22
