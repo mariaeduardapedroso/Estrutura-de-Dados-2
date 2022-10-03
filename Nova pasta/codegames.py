@@ -42,7 +42,21 @@ def escritaTamanhosFixos(file, game):
 
 # def leituraDelimitador(file, Game):
 #----------------------------------------------
+def gerarChave(registro):
+    chave = registro.nome + registro.ano
+    return chave.upper
 
+def removeRegistro(arq,chave):
+    resposta = arq.readlines()
+    for i in range(len(resposta)):
+        game = resposta[i].split('|')
+        chave = gerarChave()
+
+
+def storgeCompaction(arq):
+    #algo 
+    a=0
+    
 if __name__ == '__main__':
     entrada = open('games.txt', "r")
     saida = open('saida1.txt',"w")
