@@ -1,0 +1,14 @@
+TOP=-1
+00156|Joao|Civil|Arapongas|#
+00489|Neo|Computacao|Apucarana|#
+00547|Andressa|Eletrica|California|#
+00783|Anderson|Computacao|Campinas|#
+00205|Rosana|Moda|Cambira|#
+00005|Chanel|Moda|Curitiba|#
+00486|Alan|Computacao|Maringa|#
+00375|Jander|Civil|Curitiba|#
+00584|Armani|Moda|Apucarana|#
+00051|Steve|Computacao|Apucarana|#
+00669|Lionel|Textil|Rolandia|#
+00171|Morgana|Textil|Cambe|#
+01001|Luizao|Computacao|lbipora|#
